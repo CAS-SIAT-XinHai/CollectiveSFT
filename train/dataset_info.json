@@ -1,0 +1,498 @@
+{
+  "augesc": {
+    "file_name": "augesc.json",
+    "file_sha1": "58884359c1c906d2e48c9e8b6c27a227a5d02195",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "chqsocialemo": {
+    "file_name": "chqsocialemo.json",
+    "file_sha1": "27f8d8aff569d5cff4d89c70b13c7c6feb84abb9",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmb": {
+    "file_name": "cmb.json",
+    "file_sha1": "aac70ffe2355ad5d9d90dd2fb0656e0ab7678999",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeddialogue": {
+    "file_name": "cmeddialogue.json",
+    "file_sha1": "a6a02e0c64b055e2572e560ea0a60e9fbc2459fc",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmedqa2": {
+    "file_name": "cmedqa2.json",
+    "file_sha1": "cb6717243b918ea6aeb5dd25a553bf6d79d5666d",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmid": {
+    "file_name": "cmid.json",
+    "file_sha1": "e386df3704a59003bb83deb3c21809eb732fb0c0",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "counselchat": {
+    "file_name": "counselchat.json",
+    "file_sha1": "5c333985ffb83daab5fb4a4ccf08a5f7ec93f223",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "discmed": {
+    "file_name": "discmed.json",
+    "file_sha1": "b213ef754a5b50915af9e853ee41eb792fec0b6d",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "edos": {
+    "file_name": "edos.json",
+    "file_sha1": "f15e07f3f2c5a879a8a63022a567f8bd2e190958",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "efaqa": {
+    "file_name": "efaqa.json",
+    "file_sha1": "993abcee1f623f9b76ea12aeae646676048bd7c9",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "empatheticdialogues": {
+    "file_name": "empatheticdialogues.json",
+    "file_sha1": "623f7796f9d19b897a40dc102c57937981dd0214",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "epitome": {
+    "file_name": "epitome.json",
+    "file_sha1": "91f50120e5cb0c65133e0d56da1e39b192287bd4",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "esconv": {
+    "file_name": "esconv.json",
+    "file_sha1": "5e24463cc33c3581b261b65a2962e4ed7f962193",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "extes": {
+    "file_name": "extes.json",
+    "file_sha1": "8e61c9c8874412c134c4faa6584426de76b7d5e6",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "gena": {
+    "file_name": "gena.json",
+    "file_sha1": "5c0d91db3c38d6648c1ce8f96f7de1dd10528c99",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "headqa": {
+    "file_name": "headqa.json",
+    "file_sha1": "cca5db25cc7aca34407c2590183327d3587f1053",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "medicaldialogue": {
+    "file_name": "medicaldialogue.json",
+    "file_sha1": "7617e708f7d128111580db37aedcb9b53ceccdd0",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "medmcqa": {
+    "file_name": "medmcqa.json",
+    "file_sha1": "bd2e772e28c1519fc55e6d0c07a73a9ff799c79d",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "medqajin": {
+    "file_name": "medqajin.json",
+    "file_sha1": "280b858dbcddb4fa8ae6f4eb57ffdd427446a784",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "mlecqa": {
+    "file_name": "mlecqa.json",
+    "file_sha1": "644f0b91d99e39274e48d1a7146686fe45fadd30",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "nlpec": {
+    "file_name": "nlpec.json",
+    "file_sha1": "ad729121ab1797d0109ac6241bbc06703c96f135",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "pair": {
+    "file_name": "pair.json",
+    "file_sha1": "9989a664a10de18b63526ac5bebad8c244dcfed2",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "psyqa": {
+    "file_name": "psyqa.json",
+    "file_sha1": "538bdfe077de9cdbd658d014f582b8810f3d3b31",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "psyqa_xinhai": {
+    "file_name": "psyqa_xinhai.json",
+    "file_sha1": "ce215a7cc37bae736888213146355901262c1741",
+    "columns": {
+      "system": "system",
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "pubmedqa": {
+    "file_name": "pubmedqa.json",
+    "file_sha1": "fe1661d62dba09ccbaa1ac8b659ec438d7d5dcb4",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "samantha": {
+    "file_name": "samantha.json",
+    "file_sha1": "5b57b80bfd8b0d3edb413bc37729402df9acb0b7",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "smile": {
+    "file_name": "smile.json",
+    "file_sha1": "86c512987a06584c9ee792a81435cacb6fc21a94",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "wassa2022": {
+    "file_name": "wassa2022.json",
+    "file_sha1": "fc1fd9b6fbb0178f39e90c4df8c123e5068424d8",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "wassa2023": {
+    "file_name": "wassa2023.json",
+    "file_sha1": "01402358927883e24fd67ad03ffd23e6acceccf5",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "webmedqa": {
+    "file_name": "webmedqa.json",
+    "file_sha1": "db1b6d066002ed43f206bf9cf3bde7ae1959012e",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "alpaca_en": {
+    "file_name": "alpaca_data_en_52k.json",
+    "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
+  },
+  "alpaca_zh": {
+    "file_name": "alpaca_data_zh_51k.json",
+    "file_sha1": "e655af3db557a4197f7b0cf92e1986b08fae6311"
+  },
+  "alpaca_gpt4_en": {
+    "file_name": "alpaca_gpt4_data_en.json",
+    "file_sha1": "647f4ad447bd993e4b6b6223d1be15208bab694a"
+  },
+  "alpaca_gpt4_zh": {
+    "file_name": "alpaca_gpt4_data_zh.json",
+    "file_sha1": "3eaa3bda364ccdd59925d7448a698256c31ef845"
+  },
+  "self_cognition": {
+    "file_name": "self_cognition.json",
+    "file_sha1": "6287a730ada924fc5d9eadc6d8f865e01b7a6f67"
+  },
+  "oaast_sft": {
+    "file_name": "oaast_sft.json",
+    "file_sha1": "7baf5d43e67a91f9bbdf4e400dbe033b87e9757e",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_sft_zh": {
+    "file_name": "oaast_sft_zh.json",
+    "file_sha1": "a6a91f18f80f37b10ded9cf633fb50c033bf7b9f",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "sharegpt_zh": {
+    "file_name": "sharegpt_zh_27k.json",
+    "file_sha1": "baf766bcf3d61f1b783728c14ce695af57a86e6e",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "lima": {
+    "file_name": "lima.json",
+    "file_sha1": "9db59f6b7007dc4b17529fc63379b9cd61640f37",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "example": {
+    "script_url": "example_dataset",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "guanaco": {
+    "hf_hub_url": "JosephusCheung/GuanacoDataset"
+  },
+  "belle_0.5m": {
+    "hf_hub_url": "BelleGroup/train_0.5M_CN"
+  },
+  "belle_1m": {
+    "hf_hub_url": "BelleGroup/train_1M_CN"
+  },
+  "belle_2m": {
+    "hf_hub_url": "BelleGroup/train_2M_CN"
+  },
+  "belle_dialog": {
+    "hf_hub_url": "BelleGroup/generated_chat_0.4M"
+  },
+  "belle_math": {
+    "hf_hub_url": "BelleGroup/school_math_0.25M"
+  },
+  "belle_multiturn": {
+    "script_url": "belle_multiturn",
+    "columns": {
+      "prompt": "instruction",
+      "query": "",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "firefly": {
+    "hf_hub_url": "YeungNLP/firefly-train-1.1M",
+    "columns": {
+      "prompt": "input",
+      "query": "",
+      "response": "target",
+      "history": ""
+    }
+  },
+  "codealpaca": {
+    "hf_hub_url": "sahil2801/CodeAlpaca-20k"
+  },
+  "alpaca_cot": {
+    "hf_hub_url": "QingyiSi/Alpaca-CoT"
+  },
+  "webqa": {
+    "hf_hub_url": "suolyer/webqa",
+    "columns": {
+      "prompt": "input",
+      "query": "",
+      "response": "output",
+      "history": ""
+    }
+  },
+  "ultra_chat": {
+    "script_url": "ultra_chat",
+    "columns": {
+      "prompt": "instruction",
+      "query": "",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "novel_tokens512_50k": {
+    "hf_hub_url": "zxbsmk/webnovel_cn"
+  },
+  "comparison_gpt4_en": {
+    "file_name": "comparison_gpt4_data_en.json",
+    "file_sha1": "96fa18313544e22444fe20eead7754b17da452ae"
+  },
+  "comparison_gpt4_zh": {
+    "file_name": "comparison_gpt4_data_zh.json",
+    "file_sha1": "515b18ed497199131ddcc1af950345c11dc5c7fd"
+  },
+  "hh_rlhf_en": {
+    "script_url": "hh_rlhf_en",
+    "columns": {
+      "prompt": "instruction",
+      "query": "",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_rm": {
+    "file_name": "oaast_rm.json",
+    "file_sha1": "622d420e9b70003b210618253bd3d9d2891d86cb",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_rm_zh": {
+    "file_name": "oaast_rm_zh.json",
+    "file_sha1": "1065af1f3784dd61be5e79713a35f427b713a232",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "wiki_demo": {
+    "file_name": "wiki_demo.txt",
+    "file_sha1": "b2288edb05b233e5b35250fd4b308a5fa21fa66d",
+    "columns": {
+      "prompt": "text",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  },
+  "refinedweb": {
+    "hf_hub_url": "tiiuae/falcon-refinedweb",
+    "columns": {
+      "prompt": "content",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  },
+  "starcoder": {
+    "hf_hub_url": "bigcode/starcoderdata",
+    "columns": {
+      "prompt": "content",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  },
+  "wikipedia_en": {
+    "hf_hub_url": "olm/olm-wikipedia-20221220",
+    "columns": {
+      "prompt": "text",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  },
+  "wikipedia_zh": {
+    "hf_hub_url": "pleisto/wikipedia-cn-20230720-filtered",
+    "columns": {
+      "prompt": "completion",
+      "query": "",
+      "response": "",
+      "history": ""
+    }
+  }
+}

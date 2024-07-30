@@ -1,0 +1,6 @@
+[submodule "related_repos/LLaMA-Factory"]
+	path = related_repos/LLaMA-Factory
+	url = https://github.com/hiyouga/LLaMA-Factory
+[submodule "related_repos/CMB"]
+	path = related_repos/CMB
+	url = https://github.com/FreedomIntelligence/CMB
